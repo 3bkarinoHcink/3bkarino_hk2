@@ -13,7 +13,7 @@ if [ "$download" -eq "1"  ]; then
  cd
  clear
  termux-setup-storage
- rm -rf $HOME/Virus
+ rm -rf $HOME/3bkarino_Hk
  rm -rf $HOME/3bkarino_Hk.zip
  rm -rf $HOME/3bkarino_Hk
  clear
